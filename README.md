@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gunjan Shakya</h1>
-
+<p align="center">
+ <a href="https://github.com/GunjanShakya"><img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&width=900&height=40&lines=A+CSE+Sophomore+with+keen+interest+in+Web+Development" /></a>
+</p>
 
 
 <h2> Connect with me</h2>
@@ -7,10 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunjan-shakya-99540b195/)
 [![GMAIL Badge](https://img.shields.io/badge/-Mail-FF0000?style=for-the-badge&labelColor=&logo=gmail&logoColor=white)](mailto:gunjans123gs@gmail.com)
 <br>
-<p align="left">
- <a href="https://github.com/GunjanShakya"><img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&width=900&height=40&lines=A+CSE+Sophomore+with+keen+interest+in+Web+Development" /></a>
-<a href="https://github.com/belelaritra"><img align="right" width="28%" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" /> </a>
-</p>
+
 
 <h2> Languages and Tools </h2>
 
