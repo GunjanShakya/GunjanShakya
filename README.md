@@ -22,5 +22,5 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjanshakya&show_icons=true&locale=en&layout=compact" alt="gunjanshakya" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanshakya&" alt="gunjanshakya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunjanshakya&show_icons=true&locale=en&layout=compact&theme=dark" alt="gunjanshakya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunjanshakya&theme=dark" alt="gunjanshakya" /></p>
