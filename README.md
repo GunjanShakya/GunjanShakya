@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gunjan Shakya</h1>
 <p align="center">
- <a href="https://github.com/GunjanShakya"><img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&width=900&height=40&lines=A+Pre-Final+Year+CSE+Student+with+keen+interest+in+Web+Development" /></a>
+ <a href="https://github.com/GunjanShakya"><img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&width=900&height=40&lines=A+Final+Year+CSE+Student+with+keen+interest+in+Web+Development" /></a>
 </p>
 
 
