@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gunjan Shakya</h1>
 <p align="center">
- <a href="https://github.com/GunjanShakya"><img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&width=900&height=40&lines=Turning+visions+into+interactive+realities+as+a+Frontend+Developer+at+Smarten+Spaces" /></a>
+ <a href="https://github.com/GunjanShakya"><img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&width=900&height=40&lines=Turning+visions+into+interactive+realities+as+a+Frontend+Developer" /></a>
 </p>
 
 
